@@ -59,3 +59,4 @@ if __name__ == '__main__':
     Content='磁盘满啦'
     Token=GetToken()
     Send_Message(Token,Tag,Subject,Content)
+    #
